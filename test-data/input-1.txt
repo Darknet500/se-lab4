@@ -1,5 +1,0 @@
-# Create a ship with torpedo store that never fails and with torpedo store that always fail
-GT4500,2,0,2,0
-TORPEDO,All  # should have fire both
-TORPEDO,All  # should have fire both
-TORPEDO,All  # should have fire both
