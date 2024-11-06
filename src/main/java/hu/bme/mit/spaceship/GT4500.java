@@ -43,6 +43,9 @@ public class GT4500 implements SpaceShip {
      *
      * @return whether at least one torpedo was fired successfully
      */
+
+
+     //asdas
     @Override
     public boolean fireTorpedo(FiringMode firingMode) {
 
