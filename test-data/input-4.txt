@@ -1,4 +1,4 @@
 # Create a ship with torpedo store that never fails and with torpedo store that always fail
 GT4500,2,0,1,0
-TORPEDO,SINGLE  # should have fire first
-TORPEDO,SINGLE  # should have fire first
+TORPEDO,SINGLE  # should have fire first and SUCCESS
+TORPEDO,SINGLE  # should have fire second and SUCCESS

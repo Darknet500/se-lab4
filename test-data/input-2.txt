@@ -4,6 +4,6 @@ TORPEDO,All  # should have fire both
 TORPEDO,All  # should have fire both
 TORPEDO,All  # should have fire both
 GT4500,2,1,0,0
-TORPEDO,All  # should have fire both
-TORPEDO,All  # should have fire both
-TORPEDO,All  # should have fire both
+TORPEDO,All  # should have fire first and fail
+TORPEDO,All  # should have fire first and fail
+TORPEDO,All  # should have fire first and fail
